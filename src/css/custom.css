@@ -31,3 +31,9 @@
 header.hero {
   padding: 1.4rem 0;
 }
+
+.featureSvg_src-components-HomepageFeatures-styles-module {
+  height: 200px;
+  width: auto !important;
+  /* width: 200px; */
+}

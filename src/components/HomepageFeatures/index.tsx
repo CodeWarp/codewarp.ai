@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Master Legacy Code',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/mountain.svg').default,
     description: (
       <>
         Fearlessly untangle your gnarliest codebases, step by step
@@ -20,7 +20,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'AI-Guided',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/robot-svgrepo-com.svg').default,
     description: (
       <>
         Enjoy the reliability of deterministic tools combined with the convenience of generative AI suggestions
@@ -29,7 +29,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Provable Refactoring',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/microscope.svg').default,
     description: (
       <>
         Use verified techniques to improve code without changing behavior
